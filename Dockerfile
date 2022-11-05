@@ -1,7 +1,5 @@
 FROM mysql:5.7.38
 
-RUN chown -R mysql:root /var/lib/mysql/
-
 ENV MYSQL_ALLOW_EMPTY_PASSWORD true
 
 ARG MYSQL_DATABASE=revistajus_production
