@@ -1,3 +1,3 @@
-FROM jtrianaz/ventas-otm-v2:0.0.1-SNAPSHOT
+FROM jtrianaz/student-system-02:0.0.1-SNAPSHOT
 
 EXPOSE 8080
